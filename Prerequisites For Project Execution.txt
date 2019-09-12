@@ -1,0 +1,7 @@
+Prerequisites to Run the project:
+
+1) Kindly open your database and create a schema for the project.
+2) Kindly provide your database credentials(Username and Password) along with the schema URL in file on below path:
+	../HaloTestAyushee/Java Resources/src/com.Connection/Provider.java
+3) Kindly open your Database and in the schema created execute the two table creation scripts provided in TableStructure.sql file in ../HaloTestAyushee/TableStructure.sql file.
+4) Kindly Start your server and Run the project.  
